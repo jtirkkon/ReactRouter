@@ -24,6 +24,14 @@
   color: white;
 }
 
+.headerStyle {
+  background-color: black;
+  color: white;
+  min-height: 100px;
+  padding-top: 40px;
+  
+}
+
 .App-link {
   color: #61dafb;
 }
